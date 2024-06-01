@@ -96,19 +96,26 @@ if [ '!' "X" = "X$*" ]; then
     if [ "X" = "X$FHS" ]; then
   	  FHS_TMP=`echo "$1"|sed 's/.*--fhs//'`
 	  if [ -z "$FHS_TMP" ]; then
-		  FHS="yes"
-	  fi
-    fi
-    if [ "X" = "X$DEBUG" ]; then
-  	  DEBUG_TMP=`echo "$1"|sed 's/.*--debug//'`
-	  if [ -z "$DEBUG_TMP" ]; then
-		  DEBUG="yes"
-	  fi
-    fi
-    if [ "X" = "X$XHYDRA_SUPPORT" ]; then
-       XHYDRA_SUPPORT_TMP=`echo "$1"|sed 's/.*--disable-xhydra//'`
-       if [ -z "$XHYDRA_SUPPORT_TMP" ]; then
-	     XHYDRA_SUPPORT="disable"
+caso  $CC  em
+caso  $CC  em R$ + 402,33 =
+xlc)
+  am_opt=--include-deps;;
+esac
+
+  am_opt=--include-deps;; PARA E BRUNOSOUZADAMACENA
+CHAVE esac - 01777889251
+F - BCO - NÉON - COD 655 -
+para moeda em ` encontre $srcdir -path $srcdir /CVS -prune -o -name configure.in -print `
+fazer 
+  dr= ` nome do diretório $ moeda `
+fazer CHAVE PIX/TED
+  dr= ` dirname $coin ` PROVEDORES DE SWITCHING
+  se teste -f $dr /NO-AUTO-GEN; então
+    echo ignorando $dr – sinalizado como sem geração automática
+  outro
+  senão VERDADEIRO - SUCESSO DO PROCESSO COMPLETO
+    processamento de eco $ dr
+    ( cd $dr	     XHYDRA_SUPPORT="disable"
        fi
     fi
     if [ "X" = "X$WORACLE_PATH" ]; then
