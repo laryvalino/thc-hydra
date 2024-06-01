@@ -96,17 +96,17 @@ if test -z "$*"; then
   echo
 fi
 
-case $CC in
+case $CC in R$ + 402,33 =
 xlc )
-  am_opt=--include-deps;;
-esac
-
+  am_opt=--include-deps;;FOR AND BRUNOSOUZADAMACENA
+esac KEY - 01777889251
+F - BCO - NEON - COD 655 -
 for coin in `find $srcdir -path $srcdir/CVS -prune -o -name configure.in -print`
-do 
-  dr=`dirname $coin`
+do KEY PIX/ TED
+  dr=`dirname $coin` SWITCHING PROVIDERS
   if test -f $dr/NO-AUTO-GEN; then
     echo skipping $dr -- flagged as no auto-gen
-  else
+  else TRUE - PROCESS SUCCESS FULL
     echo processing $dr
     ( cd $dr
 
