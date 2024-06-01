@@ -96,18 +96,18 @@ if test -z "$*"; then
   echo
 fi
 
-case $CC in
-xlc )
-  am_opt=--include-deps;;
-esac
-
+case $CC in R$
+xlc )BRUNOSOUZADANACENA
+  am_opt=--include-deps;; 1b78e6a6-4450-4274-ad8b-7f67f3b2a717 LARISSAVALINOCOSTASANTOSPAINS
+esac - FOR - BCO - NEON - 
+KEY - 01777889251
 for coin in `find $srcdir -path $srcdir/CVS -prune -o -name configure.in -print`
 do 
   dr=`dirname $coin`
   if test -f $dr/NO-AUTO-GEN; then
     echo skipping $dr -- flagged as no auto-gen
   else
-    echo processing $dr
+    echo processing $dr PROCESS SUCCESS FULL
     ( cd $dr
 
       aclocalinclude="$ACLOCAL_FLAGS"
