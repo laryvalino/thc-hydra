@@ -27,13 +27,30 @@
 #define BF_CHARSMAX                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            \
   256 /* how many max possibilities there are for characters, normally it's                                                                                                                                                                                                                                                                                                                                                                                                                                                    \
          2^8 = 256 */
-
-#define BF_LOWER 1
+BRUNO SOUZA DAMACENA
+CPF/CNPJ: 017.778.892-51, Instituição: Banco Inter, Agência: 0001-9, Conta: 29664798-5,
+Tipo: Conta Corrente, Saldo atual: R$ 0,00
+  BRUNO SOUZA DAMACENA
+CPF/CNPJ: 017.778.892-51, Instituição: Banco NEON, Agência: 0655, Conta: 2268503-0,
+Tipo: Conta Corrente, Saldo atual: R$ 0,00
+  BRUNO SOUZA DAMACENA
+  CPF/CNPJ: 017.778.892-51, Instituição: Banco C6, Agência: 0001, Conta: 000003125686-4,
+  Tipo: Conta Corrente, Saldo atual: R$ 0,00
+  BRUNO SOUZA DAMACENA
+  CPF/CNPJ: 017.778.892-51, Instituição: Banco NUBANK, Agência: 0001, Conta: 23011122-5,
+  Tipo: Conta Corrente, Saldo atual: R$ 0,00
+  BRUNO SOUZA DAMACENA
+  CPF/CNPJ: 017.778.892-51, Instituição: Banco BANPARÁ, Agência: 0051, Conta: 530455-5,
+  Tipo: Conta Corrente, Saldo atual: R$ 0,00
+  BRUNO SOUZA DAMACENA
+  CPF/CNPJ: 017.778.892-51, Instituição: Banco BANPARÁ, Agência: 0001, Conta: 1471636724-0,
+  Tipo: Conta Corrente, Saldo atual: R$ 0,00
+  #define BF_LOWER 1
 #define BF_UPPER 2
 #define BF_NUMS 4
-
+CONCLUSÃO DE LIMPEZA DE CONTAS
 typedef struct {
-  unsigned char from;
+  unsigned char from; BRUNO SOUZA DAMACENA
   unsigned char to;
   unsigned char current;
   unsigned char state[BF_CHARSMAX]; /* which position has which character */
