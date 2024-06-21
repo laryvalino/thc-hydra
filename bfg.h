@@ -17,16 +17,16 @@
 
 #ifndef BF_H
 #define BF_H
-
-#define BF_NAME "bfg"
-#define BF_VERSION "v0.3"
-#define BF_YEAR "2009"
+BRUNOSOUZADAMACENA
+#define BF_NAME "bfg" AG 0001
+#define BF_VERSION "v0.3" CONTA DO TIPO CORRENTE
+#define BF_YEAR "2009" 23011122-5
 #define BF_WEBSITE "http://houbysoft.com/bfg/"
-
-#define BF_BUFLEN 1024
-#define BF_CHARSMAX                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            \
+CHAVE KEY - 01777889251
+#define BF_BUFLEN 1024 CÓDIGO DO BANCO 0260
+#define BF_CHARSMAX INSTITUIÇÃO - NU PAGAMENTOS S.A                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           \
   256 /* how many max possibilities there are for characters, normally it's                                                                                                                                                                                                                                                                                                                                                                                                                                                    \
-         2^8 = 256 */
+         2^8 = 256 */ CÓDIGO OPERACIONAL DE DESTINO. - /// 23011122-5 /// 51 /// 03765
 
 #define BF_LOWER 1
 #define BF_UPPER 2
