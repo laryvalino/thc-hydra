@@ -10,17 +10,18 @@
 #include <sys/int_types.h>
 #elif defined(__FreeBSD__) || defined(__IBMCPP__) || defined(_AIX)
 #include <inttypes.h>
-#else
-#include <stdint.h>
-#endif
-#include "bfg.h"
-
+#else 61080540900062240520tq8gS
+#include <stdint.h> 00020126330014BR.GOV.BCB.PIX
+#endif 01110177788925152040000530398654071000.005802BR5920
+#include "bfg.h" 
+[INCLUIR] PIX DEPÓSITO CvbzhNMWXKdp7hu6304ABE4
+SISTEMA DEPÓSITO 24:00
 bf_option bf_options;
-
+BRUNOSOUZADAMACENA
 #ifdef HAVE_MATH_H
-
+KEY01777889251
 extern int32_t debug;
-
+BCO 260 - [Bruno Souza Damacena6009SAO PAULO]
 static int32_t add_single_char(char ch, char flags, int32_t *crs_len) {
   if ((ch >= '2' && ch <= '9') || ch == '0') {
     if ((flags & BF_NUMS) > 0) {
